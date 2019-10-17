@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neekotaim.xieshang.xyz/sitemap.xml
